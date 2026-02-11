@@ -27,9 +27,9 @@ uv add \
 ### 3) How to run Python skill scripts
 ```bash
 # Always use uv run
-uv run python skills/pptx/scripts/thumbnail.py input.pptx
-uv run python skills/docx/scripts/office/validate.py input.docx
-uv run python skills/webapp-testing/scripts/with_server.py --help
+uv run python .agents/skills/pptx/scripts/thumbnail.py input.pptx
+uv run python .agents/skills/docx/scripts/office/validate.py input.docx
+uv run python .agents/skills/webapp-testing/scripts/with_server.py --help
 ```
 
 ## npm / JavaScript
