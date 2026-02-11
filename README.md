@@ -18,6 +18,7 @@ Each skill is self-contained in its own folder and includes a `SKILL.md`.
 - [`skills/internal-comms`](./skills/internal-comms)
 - [`skills/mcp-builder`](./skills/mcp-builder)
 - [`skills/pdf`](./skills/pdf)
+- [`skills/practical-psychologist`](./skills/practical-psychologist)
 - [`skills/pptx`](./skills/pptx)
 - [`skills/skill-creator`](./skills/skill-creator)
 - [`skills/webapp-testing`](./skills/webapp-testing)
